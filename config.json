@@ -1,0 +1,10 @@
+{
+  "ALIYUN_AK": "你的阿里云acesskey",
+  "ALIYUN_SK": "对应阿里云密匙",
+  "REGION_ID": "区域代码比如 cn-hongkong",
+  "ECS_INSTANCE_ID": "实例名字",
+  "TG_BOT_TOKEN": "tg机器人token",
+  "TG_CHAT_ID": "你自己的tgid",
+  "TRAFFIC_THRESHOLD_GB": cdt流量触发值，单位G 请直接填写数字 比如 180,
+  "CHECK_INTERVAL_SECONDS": 定时触发时间 单位秒 请直接填写数字 比如 1800
+}
